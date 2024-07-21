@@ -28,22 +28,14 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 - **Power Query**: Expertise in using Power Query for data cleaning and transformation.
 - **Power Pivot**: Skilled in creating data models and establishing relationships between tables.
 - **DAX**: Proficient in writing DAX formulas for calculated fields and metrics.
-- **Power BI**: Experienced in developing interactive dashboards using Power BI.
-
+- 
 ## Soft Skills
 - **Attention to Detail**: Ensured data accuracy and consistency throughout the project.
 - **Problem-Solving**: Addressed and resolved data-related issues effectively.
 - **Analytical Thinking**: Analyzed complex data to derive meaningful insights.
 - **Communication**: Clearly communicated findings and insights through visualizations.
 
-## How to Use
-1. **Clone the Repository**: 
-    ```bash
-    git clone https://github.com/yourusername/customer-detail-dashboard.git
-    ```
-2. **Open the Excel File**: Load the Excel file to explore the data transformations and pivot tables.
-3. **Open Power BI Dashboard**: Use Power BI to open the dashboard file and interact with the visualizations.
 
 ## Conclusion
-This project showcases the effective use of Excel and Power BI for creating a detailed and interactive dashboard that provides valuable insights into customer behavior and sales performance. The skills and techniques demonstrated in this project can be applied to a wide range of data analysis and visualization tasks.
+This project showcases the effective use of Excel for creating a detailed and interactive dashboard that provides valuable insights into customer behavior and sales performance. The skills and techniques demonstrated in this project can be applied to a wide range of data analysis and visualization tasks.
 
