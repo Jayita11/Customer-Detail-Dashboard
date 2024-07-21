@@ -20,6 +20,8 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 
   ![unnamed-38](https://github.com/user-attachments/assets/dca93f04-9dca-4268-ab02-177d481fcbc2)
 
+- **Transaction, Store, and Product Options**: Displays detailed metrics related to transactions, stores, and products, including the number of transactions, products, stores, and customers.
+
 - **Top-5 Customers by Revenue**: A bar chart highlighting the top-5 customers based on total revenue.
 
   ![Animation_new_1-2](https://github.com/user-attachments/assets/5cf0d308-1058-40a4-bdcd-2c32b260f7f0)
@@ -39,6 +41,8 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 - **Top and Least Profitable Cities**: Bar charts showing the most and least profitable cities in Canada, Mexico, and the USA.
 
   ![unnamed-37](https://github.com/user-attachments/assets/5bf82100-bc75-4263-b2e5-f0b7fdc6a85d)
+
+- **Filters**: Interactive filters allowing users to select specific years, months, and countries for more focused analysis.
 
 
 ## Technical Skills
