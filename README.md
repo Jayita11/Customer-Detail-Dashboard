@@ -22,6 +22,9 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 
 - **Transaction, Store, and Product Options**: Displays detailed metrics related to transactions, stores, and products, including the number of transactions, products, stores, and customers.
 
+  ![unnamed-39](https://github.com/user-attachments/assets/eea90750-ac02-4afc-a4bf-27cc14ef1c26)
+
+
 - **Top-5 Customers by Revenue**: A bar chart highlighting the top-5 customers based on total revenue.
 
   ![Animation_new_1-2](https://github.com/user-attachments/assets/5cf0d308-1058-40a4-bdcd-2c32b260f7f0)
