@@ -47,6 +47,9 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 
 - **Filters**: Interactive filters allowing users to select specific years, months, and countries for more focused analysis.
 
+  ![unnamed-40](https://github.com/user-attachments/assets/f053147a-d564-40e8-b6ed-f3536266cb4d)
+
+
 
 ## Technical Skills
 - **Excel**: Advanced proficiency in Excel for data importation, transformation, and analysis.
