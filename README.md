@@ -30,6 +30,9 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
   ![unnamed-35](https://github.com/user-attachments/assets/4da87cd8-52cc-4380-b040-5aabc9e2ef5a)
 
 - **Profit by Gender and Marital Status**: Bar charts illustrating profit breakdown by gender and marital status.
+
+  ![unnamed-36](https://github.com/user-attachments/assets/2c618409-08bd-449e-ac3a-94f603a2abf8)
+
 - **Top and Least Profitable Cities**: Bar charts showing the most and least profitable cities in Canada, Mexico, and the USA.
 
 ## Technical Skills
