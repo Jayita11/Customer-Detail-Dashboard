@@ -13,7 +13,7 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 4. **Relationship Creation**: Established relationships between tables in Power Pivot to facilitate seamless data analysis.
 5. **DAX Calculations**: Created calculated fields using DAX (Data Analysis Expressions) to derive meaningful metrics.
 6. **Pivot Tables**: Utilized Pivot Tables to summarize and analyze data dynamically.
-7. **Dashboard Development**: Developed an interactive dashboard in Power BI to visualize key metrics and insights.
+7. **Dashboard Development**: Developed an interactive dashboard in Excel to visualize key metrics and insights.
 
 ## Dashboard Components
 - **Summary Metrics**: Displays key performance indicators such as total quantity ordered, average order value, total revenue, and gross profit.
