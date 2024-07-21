@@ -35,6 +35,9 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 
 - **Top and Least Profitable Cities**: Bar charts showing the most and least profitable cities in Canada, Mexico, and the USA.
 
+  ![unnamed-37](https://github.com/user-attachments/assets/5bf82100-bc75-4263-b2e5-f0b7fdc6a85d)
+
+
 ## Technical Skills
 - **Excel**: Advanced proficiency in Excel for data importation, transformation, and analysis.
 - **Power Query**: Expertise in using Power Query for data cleaning and transformation.
