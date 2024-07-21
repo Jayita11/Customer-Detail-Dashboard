@@ -18,6 +18,9 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 ## Dashboard Components
 - **Summary Metrics**: Displays key performance indicators such as total quantity ordered, average order value, total revenue, and gross profit.
 - **Top-5 Customers by Revenue**: A bar chart highlighting the top-5 customers based on total revenue.
+
+  ![Animation_new_1-2](https://github.com/user-attachments/assets/5cf0d308-1058-40a4-bdcd-2c32b260f7f0)
+
 - **Profit by Age Group**: Pie chart showing profit distribution across different customer age groups.
 - **Profit by Country**: Geographic visualization of total profit by country.
 - **Profit by Gender and Marital Status**: Bar charts illustrating profit breakdown by gender and marital status.
