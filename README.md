@@ -1,7 +1,7 @@
 # Customer Detail Dashboard Project
 
 ## Project Overview
-This project focuses on creating a comprehensive Customer Detail Dashboard using Excel and Power BI. The dashboard visualizes key metrics and insights from transactional data spanning from 2020 to 2022. The aim is to provide an interactive and intuitive interface for analyzing customer behavior, sales performance, and profitability across different regions and demographics.
+This project focuses on creating a comprehensive Customer Detail Dashboard using Excel. The dashboard visualizes key metrics and insights from transactional data spanning from 2020 to 2022. The aim is to provide an interactive and intuitive interface for analyzing customer behavior, sales performance, and profitability across different regions and demographics.
 
 ## Dataset Used
 The dataset includes transactional data from 2020 to 2022, imported and transformed using Power Query. Multiple tables were normalized and relationships were established to ensure data integrity and ease of analysis. The key tables include transactions, customers, products, and stores.
