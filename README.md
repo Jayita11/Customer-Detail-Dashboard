@@ -51,6 +51,12 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 
 ## Dashboard Overview
 
+
+![unnamed-41](https://github.com/user-attachments/assets/448b139e-d770-4df9-89df-484a7e6f34e0)
+
+![Animation_new_yea](https://github.com/user-attachments/assets/35f92f10-e382-48cc-97e9-51d23a016b53)
+
+
 ## Technical Skills
 - **Excel**: Advanced proficiency in Excel for data importation, transformation, and analysis.
 - **Power Query**: Expertise in using Power Query for data cleaning and transformation.
