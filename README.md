@@ -22,6 +22,9 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
   ![Animation_new_1-2](https://github.com/user-attachments/assets/5cf0d308-1058-40a4-bdcd-2c32b260f7f0)
 
 - **Profit by Age Group**: Pie chart showing profit distribution across different customer age groups.
+
+  ![unnamed-34](https://github.com/user-attachments/assets/668f7ec5-5acb-4808-907c-48b232d14460)
+
 - **Profit by Country**: Geographic visualization of total profit by country.
 - **Profit by Gender and Marital Status**: Bar charts illustrating profit breakdown by gender and marital status.
 - **Top and Least Profitable Cities**: Bar charts showing the most and least profitable cities in Canada, Mexico, and the USA.
